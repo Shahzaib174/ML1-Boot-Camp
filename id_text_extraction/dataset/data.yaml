@@ -1,0 +1,5 @@
+train:/content/drive/MyDrive/Colab Notebooks/id_text_extraction/dataset/images/train
+val:/content/drive/MyDrive/Colab Notebooks/id_text_extraction/dataset/images/val
+
+nc:1
+names:['text']
